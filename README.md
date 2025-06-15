@@ -77,3 +77,5 @@ for filepath in list_of_files:
     else:
         logging.info(f"File already exists: {filepath}")
 ```
+
+#### Logging and run time error
