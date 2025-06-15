@@ -1,0 +1,2 @@
+[15-06-2025 19:38:49] 11 root - INFO - Logging is working from app.py!
+[15-06-2025 19:38:49] 16 root - INFO - CustomException has been raised and caught successfully!
