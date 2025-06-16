@@ -1,0 +1,8 @@
+[16-06-2025 13:50:57] 12 root - INFO - Logging is working from app.py!
+[16-06-2025 13:50:57] 26 root - INFO - reading from Mysql database
+[16-06-2025 13:50:57] 23 root - INFO - Reading data from MySQL database
+[16-06-2025 13:50:58] 33 root - INFO - Data read successfully from MySQL database
+[16-06-2025 13:50:58] 29 root - INFO - Data read successfully from MySQL database
+[16-06-2025 13:50:58] 30 root - INFO - Saving raw data to CSV file
+[16-06-2025 13:50:58] 32 root - INFO - Raw data saved successfully to CSV file
+[16-06-2025 13:50:58] 36 root - INFO - Train and test data saved successfully to CSV files

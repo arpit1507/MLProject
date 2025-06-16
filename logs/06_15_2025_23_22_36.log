@@ -1,0 +1,6 @@
+[15-06-2025 23:22:37] 12 root - INFO - Logging is working from app.py!
+[15-06-2025 23:22:37] 26 root - INFO - reading from Mysql database
+[15-06-2025 23:22:37] 23 root - INFO - Reading data from MySQL database
+[15-06-2025 23:22:37] 36 root - ERROR - Error occurred while reading data from MySQL database
+[15-06-2025 23:22:37] 43 root - INFO - Exception occurred in data ingestion
+[15-06-2025 23:22:37] 19 root - INFO - CustomException has been raised and caught successfully!
